@@ -1,1 +1,424 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T19:48:34.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" version="17.1.2" etag="Dw2B9z2joU5PrJZuaOvo" type="github"><diagram id="KRs9ITHMd8kug6_vHGvV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T23:04:22.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="UBvUI56nOJLgliKSyLV-" version="17.1.2" type="github">
+  <diagram id="KRs9ITHMd8kug6_vHGvV" name="Page-1">
+    <mxGraphModel dx="1338" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NEAT874ut31OaDpRPA5h-1" value="Smart Videohub 20x20" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="950" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-8" value="ATEM Television Studio HD" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-9" value="Beamer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-11" value="MultiView 4" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-13" value="CAMERA 1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="60" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-14" value="CAMERA 2" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="80" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-15" value="CAMERA 3" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="400" as="sourcePoint" />
+            <mxPoint x="100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-16" value="CAMERA 4" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-17" value="CAMERA 5" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="400" as="sourcePoint" />
+            <mxPoint x="140" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-18" value="CAMERA 6" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-19" value="QLAB VIDEO" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-20" value="SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-21" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="400" as="sourcePoint" />
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-22" value="STAGE SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-23" value="SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="400" as="sourcePoint" />
+            <mxPoint x="670" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-24" value="KLOK" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="400" as="sourcePoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-28" value="Mac Mini&lt;br&gt;GCGTECH1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-29" value="Mac Mini &lt;br&gt;GCGTECH2" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-30" value="STAGE SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="770" as="sourcePoint" />
+            <mxPoint x="750" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-31" value="SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="770" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-33" value="QLAB VIDEO" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="770" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-34" value="MacBook" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="770" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-35" value="KLOK" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="770" as="sourcePoint" />
+            <mxPoint x="540" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-36" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="sourcePoint" />
+            <mxPoint x="550" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-38" value="MULTI VIEW - CAMERA" style="endArrow=baseDash;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="160" as="sourcePoint" />
+            <mxPoint x="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-39" value="PROGRAM" style="endArrow=baseDash;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-40" value="AUX" style="endArrow=baseDash;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-42" value="Stage display 1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-43" value="STAGE SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="160" as="sourcePoint" />
+            <mxPoint x="670" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-44" value="KLOK" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="160" as="sourcePoint" />
+            <mxPoint x="720" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-45" value="Mini converter&lt;br&gt;SDI Distribution" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-46" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.65999999999997" y="400" as="sourcePoint" />
+            <mxPoint x="374.65999999999997" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-47" value="Webpresenter HD" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-48" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="400" as="sourcePoint" />
+            <mxPoint x="920" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-49" value="20&lt;br&gt;15" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;hachureGap=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="305" y="425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-50" value="Display 1 &lt;br&gt;geluidsman" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-51" value="MULTI VIEW - SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="400" as="sourcePoint" />
+            <mxPoint x="970" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-52" value="MULTI VIEW - SONGS" style="endArrow=baseDash;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="160" as="sourcePoint" />
+            <mxPoint x="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-53" value="AUX" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="720" as="sourcePoint" />
+            <mxPoint x="220" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-54" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="720" as="sourcePoint" />
+            <mxPoint x="200" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-55" value="MULTI VIEW - CAMERA" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="720" as="sourcePoint" />
+            <mxPoint x="300" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-56" value="MULTI VIEW - SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-57" value="CAMERA 1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="720" as="sourcePoint" />
+            <mxPoint x="60" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-58" value="CAMERA 2" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="720" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-59" value="CAMERA 3" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="720" as="sourcePoint" />
+            <mxPoint x="100" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-60" value="CAMERA 4" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="720" as="sourcePoint" />
+            <mxPoint x="120" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-61" value="CAMERA 5" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="720" as="sourcePoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-62" value="CAMERA 6" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="720" as="sourcePoint" />
+            <mxPoint x="160" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-63" value="OUTPUTS&lt;br&gt;INPUTS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;hachureGap=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="335" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-64" value="WEBPRESENTER" style="endArrow=baseDash;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="160" as="sourcePoint" />
+            <mxPoint x="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-65" value="WEBPRESENTER" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=baseDash;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="720" as="sourcePoint" />
+            <mxPoint x="260" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-68" value="MULTI VIEW - SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="159.99999999999977" as="sourcePoint" />
+            <mxPoint x="620" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-69" value="MULTI VIEW - ALLES" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="160" as="sourcePoint" />
+            <mxPoint x="870" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-71" value="Stage display 2" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-72" value="Delay display 1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-73" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-74" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-75" value="Delay display 2" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-76" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.9999999999998" y="160" as="sourcePoint" />
+            <mxPoint x="350" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-77" value="Delay display 6" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-78" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="160" as="sourcePoint" />
+            <mxPoint x="401" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-79" value="Delay display 3" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-80" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-81" value="Delay display 4" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="381" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-82" value="PROGRAM" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="160" as="sourcePoint" />
+            <mxPoint x="500" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-83" value="Delay display 5" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-84" value="Display 2&lt;br&gt;video regisseur" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-85" value="MULTI VIEW - CAMERA" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-86" value="Display 1&lt;br&gt;video regisseur" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-87" value="Display 2 &lt;br&gt;liedteksten" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-88" value="MultiView 4" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-89" value="MULTI VIEW - SONGS" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="400" as="sourcePoint" />
+            <mxPoint x="820" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-90" value="WEBPRESENTER" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="400" as="sourcePoint" />
+            <mxPoint x="840" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-91" value="AUX" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="400" as="sourcePoint" />
+            <mxPoint x="860" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-92" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="400" as="sourcePoint" />
+            <mxPoint x="880" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-96" value="COMPUTERBEELD" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="770" as="sourcePoint" />
+            <mxPoint x="710" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-97" value="Display 1&lt;br&gt;liedteksten" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-98" value="Display 3&lt;br&gt;video regisseur" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-99" value="COMPUTERBEELD" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="770" as="sourcePoint" />
+            <mxPoint x="660" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-100" value="MULTI VIEW - ALLES" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="160" as="sourcePoint" />
+            <mxPoint x="820" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-101" value="Display 1&lt;br&gt;video wall" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-102" value="KLOK" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;horizontal=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="160" as="sourcePoint" />
+            <mxPoint x="770" y="-40.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEAT874ut31OaDpRPA5h-103" value="Display 2&lt;br&gt;video wall" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontSize=10;strokeColor=#FF8000;connectable=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-120" width="40" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
